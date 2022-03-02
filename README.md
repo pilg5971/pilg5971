@@ -1,9 +1,11 @@
-<img 
+
+<a href="https://pilg5971.github.io/" target="_blank">
+  <img 
   src="img/Banner.png" 
   alt="Banner Image"
   width="100%"
-  style="border-radius:6px;"
-/>
+  style="border-radius:6px;"/>
+</a>
 
 ---
 
@@ -15,8 +17,7 @@
 - 🤔 I’m looking for help with Cordova iOS Development
 - 💬 Ask me about Graphic Design and D&D
 - 📫 How to reach me: 
-        Email: clank555@gmail.com
-        Phone: 630-442-4985
+  Email: clank555@gmail.com
 - ⚡ Fun fact: I played Collegiate League of Legends for The University of St. Thomas
 
 ---
