@@ -2,6 +2,7 @@
   src="img/Banner.png" 
   alt="Banner Image"
   width="100%"
+  style="border-radius:6px;"
 />
 
 ---
@@ -38,14 +39,14 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
   style="padding-right:10px;"/>
 <img align="left" 
-  alt="Sass" 
-  width="26px" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" 
-  style="padding-right:10px;"/>
-<img align="left" 
   alt="JavaScript" 
   width="26px" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+  style="padding-right:10px;"/>
+<img align="left" 
+  alt="Sass" 
+  width="26px" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" 
   style="padding-right:10px;"/>
 <img align="left" 
   alt="React" 
