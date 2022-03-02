@@ -1,4 +1,9 @@
-<img width="100%" src="img/Banner.png" alt="Banner Image" />
+<img 
+  width="100%" 
+  border-radius="6px"
+  src="img/Banner.png" 
+  alt="Banner Image" 
+/>
 
 ### Hi there 👋 I'm Trevor!
 
