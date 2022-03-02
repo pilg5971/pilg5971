@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/pilg5971/pilg5971/img/Banner.png" alt="Banner Image" />
+<img width="100%" src="img/Banner.png" alt="Banner Image" />
 
 ### Hi there 👋 I'm Trevor!
 
