@@ -1,8 +1,14 @@
 <img 
   src="img/Banner.png" 
-  alt="Banner Image" 
-  style="width: 100%; border-radius: 6px;"
+  alt="Banner Image"
 />
+
+<style>
+  img{
+    width: 100%;
+    border-radius: 6px;
+  }
+</style>
 
 ### Hi there 👋 I'm Trevor!
 
