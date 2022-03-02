@@ -58,7 +58,7 @@
 <img align="left" 
   alt="Svelte" 
   width="26px" 
-  src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" 
   style="padding-right:10px"/>
 <img align="left" 
   alt="Angular" 
@@ -113,11 +113,6 @@
   alt="Figma" 
   width="26px" 
   src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" 
-  style="padding-right:10px"/>
-<img align="left" 
-  alt="Inkscape" 
-  width="26px" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" 
   style="padding-right:10px"/>
 <img align="left" 
   alt="Git" 
