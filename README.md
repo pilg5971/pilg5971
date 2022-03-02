@@ -22,6 +22,7 @@
 
 ### Languages and Tools:
 
+<!-- Frontend -->
 <img align="left" 
   alt="Visual Studio Code" 
   width="26px" 
@@ -42,25 +43,51 @@
   width="26px" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
   style="padding-right:10px;"/>
-<img align="left" 
-  alt="Sass" 
-  width="26px" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" 
-  style="padding-right:10px;"/>
+
+<!-- Frameworks -->
 <img align="left" 
   alt="React" 
   width="26px" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
   style="padding-right:10px;"/>
 <img align="left" 
-  alt="GraphQL" 
+  alt="Vue" 
   width="26px" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" 
+  style="padding-right:10px"/>
+<img align="left" 
+  alt="Angular" 
+  width="26px" 
+  src="https://angular.io/assets/images/logos/angular/angular.svg" 
+  style="padding-right:10px"/>
+
+<!-- CSS Frameworks -->
+<img align="left" 
+  alt="Bootstrap" 
+  width="26px" 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" 
+  style="padding-right:10px"/>
+<img align="left" 
+  alt="Tailwind" 
+  width="26px" 
+  src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" 
+  style="padding-right:10px"/>
+<img align="left" 
+  alt="Sass" 
+  width="26px" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" 
   style="padding-right:10px;"/>
+
+<!-- Other Systems -->
 <img align="left" 
   alt="Node.js" 
   width="26px" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
+  style="padding-right:10px;"/>
+<img align="left" 
+  alt="GraphQL" 
+  width="26px" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" 
   style="padding-right:10px;"/>
 <img align="left" 
   alt="MongoDB" 
@@ -73,43 +100,24 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
   style="padding-right:10px;"/>
 <img align="left" 
-  alt="Git" 
-  width="26px" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-  style="padding-right:10px"/>
-
-<img align="left" 
-  alt="Angular" 
-  width="26px" 
-  src="https://angular.io/assets/images/logos/angular/angular.svg" 
-  style="padding-right:10px"/>
-
-<img align="left" 
   alt="Cordova" 
   width="26px" 
   src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" 
   style="padding-right:10px"/>
-
-<img align="left" 
-  alt="Bootstrap" 
-  width="26px" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" 
-  style="padding-right:10px"/>
-
 <img align="left" 
   alt="Figma" 
   width="26px" 
   src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" 
   style="padding-right:10px"/>
-
 <img align="left" 
-  alt="Tailwind" 
+  alt="Git" 
   width="26px" 
-  src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
   style="padding-right:10px"/>
 
-<img align="left" 
-  alt="Vue" 
-  width="26px" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" 
-  style="padding-right:10px"/>
+
+
+
+
+
+
