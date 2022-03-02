@@ -1,16 +1,14 @@
-### Hi there 👋
+<img width="100%" src="https://github.com/pilg5971/pilg5971/img/Banner.png" alt="Banner Image" />
 
-<!--
-**pilg5971/pilg5971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I'm Trevor!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my personal website
+- 🌱 I’m currently learning Svelte & Angular
+- 👯 I’m looking to collaborate on Frontend Development Projects
+- 🤔 I’m looking for help with Cordova iOS Development
+- 💬 Ask me about Graphic Design and D&D
+- 📫 How to reach me: 
+        Email: clank555@gmail.com
+        Phone: 630-442-4985
+- ⚡ Fun fact: I played Collegiate League of Legends for The University of St. Thomas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
