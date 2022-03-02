@@ -53,24 +53,29 @@
 <img align="left" 
   alt="Vue" 
   width="26px" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" 
+  style="padding-right:10px"/>
+<img align="left" 
+  alt="Svelte" 
+  width="26px" 
+  src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" 
   style="padding-right:10px"/>
 <img align="left" 
   alt="Angular" 
   width="26px" 
-  src="https://angular.io/assets/images/logos/angular/angular.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" 
   style="padding-right:10px"/>
 
 <!-- CSS Frameworks -->
 <img align="left" 
   alt="Bootstrap" 
   width="26px" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
   style="padding-right:10px"/>
 <img align="left" 
   alt="Tailwind" 
   width="26px" 
-  src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" 
   style="padding-right:10px"/>
 <img align="left" 
   alt="Sass" 
@@ -110,14 +115,12 @@
   src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" 
   style="padding-right:10px"/>
 <img align="left" 
+  alt="Inkscape" 
+  width="26px" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" 
+  style="padding-right:10px"/>
+<img align="left" 
   alt="Git" 
   width="26px" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
   style="padding-right:10px"/>
-
-
-
-
-
-
-
