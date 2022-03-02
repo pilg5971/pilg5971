@@ -1,10 +1,9 @@
 
-<a href="https://pilg5971.github.io/" target="_blank">
+<a href="https://pilg5971.github.io/">
   <img 
   src="img/Banner.png" 
   alt="Banner Image"
-  width="100%"
-  style="border-radius:6px;"/>
+  width="100%"/>
 </a>
 
 ---
@@ -16,8 +15,7 @@
 - 👯 I’m looking to collaborate on Frontend Development Projects
 - 🤔 I’m looking for help with Cordova iOS Development
 - 💬 Ask me about Graphic Design and D&D
-- 📫 How to reach me: 
-  Email: clank555@gmail.com
+- 📫 How to reach me: clank555@gmail.com
 - ⚡ Fun fact: I played Collegiate League of Legends for The University of St. Thomas
 
 ---
@@ -78,4 +76,40 @@
   alt="Git" 
   width="26px" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+  style="padding-right:10px"/>
+
+<img align="left" 
+  alt="Angular" 
+  width="26px" 
+  src="https://angular.io/assets/images/logos/angular/angular.svg" 
+  style="padding-right:10px"/>
+
+<img align="left" 
+  alt="Cordova" 
+  width="26px" 
+  src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" 
+  style="padding-right:10px"/>
+
+<img align="left" 
+  alt="Bootstrap" 
+  width="26px" 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" 
+  style="padding-right:10px"/>
+
+<img align="left" 
+  alt="Figma" 
+  width="26px" 
+  src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" 
+  style="padding-right:10px"/>
+
+<img align="left" 
+  alt="Tailwind" 
+  width="26px" 
+  src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" 
+  style="padding-right:10px"/>
+
+<img align="left" 
+  alt="Vue" 
+  width="26px" 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" 
   style="padding-right:10px"/>
