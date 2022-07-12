@@ -10,12 +10,12 @@
 
 ### Hi there 👋 I'm Trevor!
 
-- 🔭 I’m currently working on my personal website
-- 🌱 I’m currently learning Svelte & Angular
+- 🔭 I’m currently working on a new iteration of my Personal Website
+- 🌱 I’m currently learning Vue.js & Svelte/Sveltekit
 - 👯 I’m looking to collaborate on Frontend Development Projects
-- 🤔 I’m looking for help with Cordova iOS Development
-- 💬 Ask me about Graphic Design and D&D
-- 📫 How to reach me: clank555@gmail.com
+- 🤔 I’m looking for help with Angular Project Ideas
+- 💬 Ask me about Graphic Design and Dungeons & Dragons
+- 📫 How to reach me: trevorpilgrim01@gmail.com
 - ⚡ Fun fact: I played Collegiate League of Legends for The University of St. Thomas
 
 ---
